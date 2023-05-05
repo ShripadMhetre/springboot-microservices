@@ -11,7 +11,7 @@ import org.springframework.web.client.RestTemplate;
 import java.util.List;
 
 @RestController
-@RequestMapping("/gallery")
+@RequestMapping("/")
 public class MainController {
 
     @Autowired
